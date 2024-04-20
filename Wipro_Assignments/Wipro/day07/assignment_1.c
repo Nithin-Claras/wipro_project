@@ -1,5 +1,6 @@
-/* Simple Calculator function */
-
+/*
+Simple calculator function
+*/
 
 #include <stdio.h>
 

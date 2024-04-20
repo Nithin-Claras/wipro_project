@@ -1,5 +1,6 @@
-/* Ascending order using pointer */
-
+/*
+Array sorting using pointer
+*/
 
 #include <stdio.h>
 
